@@ -1,3 +1,3 @@
-#Learning Git
-##With Chris.P
-###With the wonderful Shafeeq
+# Learning Git
+## With Chris.P
+### With the wonderful Shafeeq
